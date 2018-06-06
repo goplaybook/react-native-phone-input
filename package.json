@@ -25,7 +25,6 @@
   ],
   "dependencies": {
     "google-libphonenumber": "^2.0.9",
-    "lodash": "^4.17.4",
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
